@@ -1,0 +1,29 @@
+name: PHONES&ACCESSORIES
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/c0033c3d-0170-415e-bf2f-3e7e656daf30.jpg
+layout_spectrum: 0.6825824810343317
+typography_spectrum: 0.5621195360065208
+opengraph:
+  type: ''
+  appId: Couragenyadzi
+color:
+  brandColors:
+    - '#2E0927'
+    - '#D90000'
+    - '#FF2D00'
+    - '#FF8C00'
+    - '#04756F'
+  brandStrength: 0.9463792173606412
+  lightness: 0.24024071970747285
+  saturation: 0.11823177306206767
+  rhythmicContrast: 0.2896916653556604
+title: AFFORDABLE NOW
+description: Get all your phones and accessories here in a cheaper way.
+author:
+  name: Courage nyadzi
+  url: phones&accessories
+  email: Couragenyadzi@gmail.com
+content_rating:
+  adult: false
+content: []
+github: true
