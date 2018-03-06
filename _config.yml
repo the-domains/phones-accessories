@@ -29,5 +29,8 @@ navigation:
   - name: Home
     url: 'https://thegrid.ai/phones-accessories/'
     type: external
+  - name: Get your business website AFFORDABLE.
+    id: 658a835a-f766-485f-bddc-de03de20c592
+    type: content
 content: []
 github: true
