@@ -25,5 +25,9 @@ author:
   email: Couragenyadzi@gmail.com
 content_rating:
   adult: false
+navigation:
+  - name: Home
+    url: 'https://thegrid.ai/phones-accessories/'
+    type: external
 content: []
 github: true
