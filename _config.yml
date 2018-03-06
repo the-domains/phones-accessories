@@ -26,7 +26,17 @@ author:
 content_rating:
   adult: false
 navigation:
-  - name: Home
+  - name: |+
+      SERVICES
+      *phones and accessories.
+      *phone repairs.
+      *modem decoding.
+      *phone decoding and flashing.
+      *website creating.
+      *cheaper internet data bundles.
+
+
+
     url: 'https://thegrid.ai/phones-accessories/'
     type: external
   - name: Get your business website AFFORDABLE.
